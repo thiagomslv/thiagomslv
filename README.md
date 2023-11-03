@@ -1,5 +1,3 @@
-<h1 align=center>Thiago Marques</h1>
-
 ## Hello everyone! 👋
 
 Me chamo Thiago, sou estudante de engenharia da computação e fascinado em entender como as coisas nesse universo tão vasto funcionam. Gosto tanto de hardware como de software, e estou constantemente renovando meu conhecimento.
